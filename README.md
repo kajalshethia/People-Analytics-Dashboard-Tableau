@@ -5,8 +5,7 @@ This **People Analytics Dashboard** provides a comprehensive view of key HR metr
 
 **Link to the Dashboard**: https://public.tableau.com/app/profile/kajal.shethia/viz/PeopleAnalyticsDashboard_17368176367070/PeopleAnalyticsDashboard 
 
-**Preview** \n
-<img src="dashboard-preview.png" alt="Alt text" width="800" height="500">
+<img src="dashboard-preview.png" alt="Alt text" width="800" height="400">
 
 ## Key Features
 - **Summary KPIs**: Total employee count, attrition rate, active employees, average monthly salary, and average age.
